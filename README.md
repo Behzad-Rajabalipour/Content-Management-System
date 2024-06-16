@@ -63,18 +63,7 @@ To run this project locally, you need to have the following installed:
    \`\`\`
 
 ## Project Structure
-
-\`\`\`
-Organized-System/
-├── admin/
-│   ├── index.php
-│   ├── dashboard.php
-│   └── cms.sql
-├── css/
-├── js/
-├── images/
-└── ...
-\`\`\`
+![image](https://github.com/Behzad-Rajabalipour/Organized-System/assets/115672803/4f80c934-09e0-4904-a23a-97253ce0f239)
 
 ## Links
 
@@ -92,15 +81,5 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Commit your changes (\`git commit -m 'Add some feature'\`)
 5. Push to the branch (\`git push origin feature/your-feature-name\`)
 6. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Special thanks to all the contributors who have helped in developing this project.
-
----
 
 Feel free to reach out if you have any questions or need further assistance!
